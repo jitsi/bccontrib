@@ -1,0 +1,28 @@
+bccontrib
+=========
+
+The projects does not have a single license.
+
+MIT License
+-----------
+Applies to:
+* Skein (Digest)
+* ThreefishCipher
+* SkeinMac
+
+Copyright (c) 2010 Alberto Fajardo and Werner Dittmann
+
+GPL with Classpath Exception
+----------------------------
+* FortunaGenerator
+
+Copyright (C) 2004, 2006 Free Software Foundation, Inc.
+Copyright (c) 2010 Alberto Fajardo and Werner Dittmann
+
+Without specific license
+------------------------
+* ParametersForSkein
+* ParametersForThreefish
+* ByteLong
+
+Copyright (c) 2010 Werner Dittmann
