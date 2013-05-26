@@ -9,6 +9,9 @@ Applies to:
 * Skein (Digest)
 * ThreefishCipher
 * SkeinMac
+* ParametersForSkein
+* ParametersForThreefish
+* ByteLong
 
 Copyright (c) 2010 Alberto Fajardo and Werner Dittmann
 
@@ -18,11 +21,3 @@ GPL with Classpath Exception
 
 Copyright (C) 2004, 2006 Free Software Foundation, Inc.
 Copyright (c) 2010 Alberto Fajardo and Werner Dittmann
-
-Without specific license
-------------------------
-* ParametersForSkein
-* ParametersForThreefish
-* ByteLong
-
-Copyright (c) 2010 Werner Dittmann
