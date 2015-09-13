@@ -89,7 +89,7 @@ import org.bouncycastle.crypto.prng.RandomGenerator;
  * License: the Bouncycastle license applies to this file. Also notice the GNU
  * Classpath license exception (see below).
  * <p>
- * Copyright (C) 2010 Werner Dittmann <Werner.Dittmann@t-online.de> <br>
+ * Copyright (C) 2010 Werner Dittmann (Werner.Dittmann@t-online.de) <br>
  * Copyright (C) 2004, 2006 Free Software Foundation, Inc.
  * 
  */

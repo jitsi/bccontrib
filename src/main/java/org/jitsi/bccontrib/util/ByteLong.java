@@ -28,7 +28,7 @@ package org.jitsi.bccontrib.util;
 /**
  * Conversion from byte to long and vice versa, long in little endian order.
  * 
- * @author Werner Dittmann <Werner.Dittmann@t-online.de>
+ * @author Werner Dittmann (Werner.Dittmann@t-online.de)
  *
  */
 public class ByteLong {

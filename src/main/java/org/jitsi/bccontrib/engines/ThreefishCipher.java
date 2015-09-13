@@ -242,7 +242,7 @@ public class ThreefishCipher implements BlockCipher {
      * Threefish cipher with 256 bit internal state.
      * 
      * 
-     * @author Werner Dittmann <Werner.Dittmann@t-online.de>
+     * @author Werner Dittmann (Werner.Dittmann@t-online.de)
      *
      */
     public class Threefish256 extends ThreefishCipher {
@@ -608,7 +608,7 @@ public class ThreefishCipher implements BlockCipher {
      * Threefish cipher with 512 bit internal state.
      * 
      * 
-     * @author Werner Dittmann <Werner.Dittmann@t-online.de>
+     * @author Werner Dittmann (Werner.Dittmann@t-online.de)
      *
      */
     public class Threefish512 extends ThreefishCipher {
@@ -1267,7 +1267,7 @@ public class ThreefishCipher implements BlockCipher {
      * Threefish cipher with 1024 bit internal state.
      * 
      * 
-     * @author Werner Dittmann <Werner.Dittmann@t-online.de>
+     * @author Werner Dittmann (Werner.Dittmann@t-online.de)
      *
      */
     public class Threefish1024 extends ThreefishCipher {

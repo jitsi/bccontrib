@@ -71,13 +71,13 @@ public class SkeinMac implements Mac {
      * Skein can handle data not only as bytes but also as bit strings of
      * arbitrary length (up to its maximum design size).
      * 
-     * @param array
+     * @param in
      *     The byte array that holds the bit string. The array must be big
      *     enough to hold all bits.
-     * @param start
+     * @param inOff
      *     Offset into byte array where the data starts, must be a byte number
      *     (not a bit number).
-     * @param length
+     * @param len
      *     Number of bits to hash.
      */
     public void updateBits(byte[] in, int inOff, int len)
